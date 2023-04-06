@@ -3,7 +3,7 @@
 <br>
 De-Facto SDKPaint Servers.
 
-> To-do:<br>
+> To-do:
 - Archive assets.
 - Reverse engineer backend from archived assets.
 - Make a backend.
