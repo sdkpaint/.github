@@ -2,7 +2,7 @@
 <p><img align="center" src="https://avatars.githubusercontent.com/u/130017968?s=200&v=4" alt="SDKPaint" /></p>
 
 
-De-Facto SDKPaint Servers.
+Archiving the legacy of the SDKPaint community.
 
 To-do:
 - Archive assets.
