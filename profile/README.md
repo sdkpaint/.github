@@ -9,3 +9,5 @@ To-do:
 - Reverse engineer backend from archived assets.
 - Make a backend.
 - Lot's of testing.
+
+[![Discord](https://tinyurl.com/2p9xchfn)](https://discord.gg/znMAEfN7Xm)
