@@ -5,9 +5,9 @@
 Archiving the legacy of the SDKPaint community.
 
 To-do:
-- Archive assets.
-- Reverse engineer backend from archived assets.
-- Make a backend.
-- Lot's of testing.
+- Archive assets. [50%]
+- Fix up assets. [49%]
+- Backend development. [0%]
+- Open testing phase. [0%]
 
 [![Discord](https://tinyurl.com/2p9xchfn)](https://discord.gg/znMAEfN7Xm)
